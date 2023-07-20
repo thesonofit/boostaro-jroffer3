@@ -1,0 +1,18 @@
+.button-disabled[data-v-e2d4bdb4] {
+  cursor: default;
+}
+.btn-visibility-none[data-v-e2d4bdb4] {
+  visibility: hidden;
+}
+.btn-loader-position[data-v-e2d4bdb4] {
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.button-icon-start[data-v-e2d4bdb4] {
+  margin-right: 5px;
+}
+.button-icon-end[data-v-e2d4bdb4] {
+  margin-left: 5px;
+}
